@@ -12,7 +12,7 @@
     </a>
   </p>
   <p>
-    🕒 16:31 (UTC +03:00)
+    🕒 17:00 (UTC +03:00)
   </p>
 </div>
 
@@ -41,49 +41,56 @@ I'm **Fabian C.**, a passionate developer specializing in full-stack web develop
 
 ## 🔥 Highlights
 
-- **Top Projects**: ADAYS, Ai-Assistant, CS50-Web-Development-Projects, Medical-Record, OnlyRecruit.
+- **Top Projects**: .NET-Microservice-Project, ADAYS, Ai-Assistant, CS50-Web-Development-Projects, Medical-Record, OnlyRecruit.
 
 ---
 
 ## 🚀 Projects
 
+### 🖥️ [.NET-Microservice-Project Public](https://github.com/fabiancrt/.NET-Microservice-Project)
+A robust and scalable microservices architecture built with .NET. This project demonstrates my expertise in designing, developing, and deploying microservices that communicate seamlessly to deliver high-performance applications.
+
+**Languages:** ![C#](https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white)
+
+---
+
 ### 🏥 [ADAYS Public](https://github.com/fabiancrt/Adays)
-Welcome to ADAYS, a comprehensive health and well-being platform designed and developed using modern full-stack web technologies. This project showcases my expertise in creating scalable, maintainable…
+Welcome to ADAYS, a comprehensive health and well-being platform designed and developed using modern full-stack web technologies. This project showcases my expertise in creating scalable, maintainable solutions that prioritize user experience and data security.
 
 **Languages:** ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 
 ---
 
 ### 🤖 [Ai-Assistant Public](https://github.com/fabiancrt/Ai-Assistant)
-Jarvis is an AI Assistant developed as a personal project to deepen understanding of machine learning and natural language processing. Built with PyTorch, Jarvis leverages various technologies to p…
+Jarvis is an AI Assistant developed as a personal project to deepen understanding of machine learning and natural language processing. Built with PyTorch, Jarvis leverages various technologies to provide intelligent and responsive interactions.
 
 **Languages:** ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 
 ---
 
 ### 💻 [CS50-Web-Development-Projects Public](https://github.com/fabiancrt/CS50-Web-Development-Projects)
-Hello! I'm Fabian C, and I've successfully completed several projects as part of CS50's Web Programming with Python and JavaScript course offered by HarvardX. This course has equipped me with a sol…
+Hello! I'm Fabian C, and I've successfully completed several projects as part of CS50's Web Programming with Python and JavaScript course offered by HarvardX. This course has equipped me with a solid foundation in web development principles and best practices.
 
 **Languages:** ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
 
 ---
 
 ### 📁 [Medical-Record Public](https://github.com/fabiancrt/Medical-Record)
-The Full-Stack Medical Record Management System is a comprehensive web application designed to digitally scan, organize, and manage medical records efficiently. By converting physical documents int…
+The Full-Stack Medical Record Management System is a comprehensive web application designed to digitally scan, organize, and manage medical records efficiently. By converting physical documents into digital formats, it enhances accessibility and security.
 
 **Languages:** ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 
 ---
 
 ### 🧩 [My-Coding-Problems Public](https://github.com/fabiancrt/My-Coding-Problems)
-This is for educational purposes only. You shall not use these solutions in any way that goes against Harvard's academic honesty policy. This file contains problems specific to the CS50 program..
+This repository is for educational purposes only. You shall not use these solutions in any way that goes against Harvard's academic honesty policy. It contains problems specific to the CS50 program.
 
 **Languages:** ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
 
 ---
 
 ### 🌐 [OnlyRecruit Public](https://github.com/fabiancrt/OnlyRecruit)
-ONLYRECRUIT is a cutting-edge, full-stack web application tailored for top recruiters. It empowers users to securely store and professionally showcase their projects, enhancing visibility and simpl…
+ONLYRECRUIT is a cutting-edge, full-stack web application tailored for top recruiters. It empowers users to securely store and professionally showcase their projects, enhancing visibility and simplifying the recruitment process.
 
 **Languages:** ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
 
@@ -97,6 +104,7 @@ ONLYRECRUIT is a cutting-edge, full-stack web application tailored for top recru
 
 ## 📅 Recent Activity
 
+- **.NET-Microservice-Project**: 15 commits
 - **Adays**: 22 commits
 - **OnlyRecruit**: 14 commits
 - **Medical-Record**: 9 commits
@@ -108,9 +116,9 @@ ONLYRECRUIT is a cutting-edge, full-stack web application tailored for top recru
 ## 🕸️ Connect with Me
 
 <div align="center">
-  <a href="[https://linkedin.com/in/fabiancrt](https://www.linkedin.com/in/cretu-fabian/)" target="blank">
+  <a href="https://www.linkedin.com/in/cretu-fabian/" target="blank">
     <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-
+  </a>
 </div>
 
 ---
