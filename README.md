@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>👋 Hi, I'm Fabian C. (fabiancrt)</h1>
+  <h1>👋 Hello, I'm Fabian C. (fabiancrt)</h1>
   <p>
     <code>printf("Hello World!\\n");</code>
   </p>
@@ -20,12 +20,12 @@
 
 ## 🌐 About Me
 
-I'm **Fabian C.**, a passionate developer specializing in full-stack web development, machine learning, and AI. I thrive on creating scalable and maintainable solutions that make a difference.
+I’m **Fabian C.**, a versatile developer specializing in full-stack web development, machine learning, and AI. I’m also passionate about **circuitry**, **Arduino projects**, and **embedded systems**, with hands-on experience gained from my studies at the Technical University of Iași "Gheorghe Asachi." My goal is to build scalable, maintainable, and innovative solutions that make an impact.
 
-> **Binary Quote:**
-> 
+> **Binary Quote** (because coding is life):
 > ```
-> 01010011 01110100 01110101 01100100 01111001 00100000 01101000 01100001 01110010 01100100 00100000 01110111 01101000 01100001 01110100 00100000 01101001 01101110 01110100 01100101 01110010 01100101 01110011 01110100 01110011 00100000 01111001 01101111 01110101 00100000 01110100 01101000 01100101 00100000 01101101 01101111 01110011 01110100 00100000 01101001 01101110 00100000 01110100 01101000 01100101 00100000 01101101 01101111 01110011 01110100 00100000 01110101 01101110 01100100 01101001 01110011 01100011 01101001 01110000 01101100 01101001 01101110 01100101 01100100 00101100 00100000 01101001 01110010 01110010 01100101 01110110 01100101 01110010 01100101 01101110 01110100 00100000 01100001 01101110 01100100 00100000 01101111 01110010 01101001 01100111 01101001 01101110 01100001 01101100 00100000 01101101 01100001 01101110 01101110 01100101 01110010 00100000 01110000 01101111 01110011 01110011 01101001 01100010 01101100 01100101 00101110 00100000 11100010 10000000 10011001 00100000 01010010 01101001 01100011 01101000 01100001 01110010 01100100 00100000 01000110 01100101 01111001 01101110 01101101 01100001 01101110 01101110
+> 01010011 01110100 01110101 01100100 01111001 00100000 ...
+> (Enjoy deciphering!)
 > ```
 
 ---
@@ -33,66 +33,90 @@ I'm **Fabian C.**, a passionate developer specializing in full-stack web develop
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fabiancrt&show_icons=true&theme=radical&count_private=true" alt="Fabian's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabiancrt&layout=compact&theme=radical" alt="Top Languages" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=fabiancrt&show_icons=true&theme=radical&count_private=true" 
+    alt="Fabian's GitHub Stats" 
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabiancrt&layout=compact&theme=radical" 
+    alt="Top Languages" 
+  />
 </div>
 
 ---
 
 ## 🔥 Highlights
 
-- **Top Projects**: .NET-Microservice-Project, ADAYS, Ai-Assistant, CS50-Web-Development-Projects, Medical-Record, OnlyRecruit.
+**Top Projects**:  
+- [.NET-Microservice-Project](#net-microservice-project)
+- [ADAYS](#adays)
+- [Ai-Assistant](#ai-assistant)
+- [CS50-Web-Development-Projects](#cs50-web-development-projects)
+- [Medical-Record](#medical-record)
+- [ArduClaw](#arduclaw) *(new!)*
 
 ---
 
 ## 🚀 Projects
 
-### 🖥️ [.NET-Microservice-Project Public](https://github.com/fabiancrt/.NET-Microservice-Project)
-A robust and scalable microservices architecture built with .NET. This project demonstrates my expertise in designing, developing, and deploying microservices that communicate seamlessly to deliver high-performance applications.
+### .NET-Microservice-Project
+**[GitHub Repo](https://github.com/fabiancrt/.NET-Microservice-Project)**
 
-**Languages:** ![C#](https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white)
+A robust, scalable microservices architecture built with .NET. Demonstrates designing, developing, and deploying microservices that communicate seamlessly for high-performance applications.
 
----
-
-### 🏥 [ADAYS Public](https://github.com/fabiancrt/Adays)
-Welcome to ADAYS, a comprehensive health and well-being platform designed and developed using modern full-stack web technologies. This project showcases my expertise in creating scalable, maintainable solutions that prioritize user experience and data security.
-
-**Languages:** ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+**Tech Stack**: ![C#](https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white)
 
 ---
 
-### 🤖 [Ai-Assistant Public](https://github.com/fabiancrt/Ai-Assistant)
-Jarvis is an AI Assistant developed as a personal project to deepen understanding of machine learning and natural language processing. Built with PyTorch, Jarvis leverages various technologies to provide intelligent and responsive interactions.
+### ADAYS
+**[GitHub Repo](https://github.com/fabiancrt/Adays)**
 
-**Languages:** ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+A comprehensive health and well-being platform created with modern full-stack web technologies. Emphasizes user experience and data security, showcasing a strong focus on scalability and maintainability.
 
----
-
-### 💻 [CS50-Web-Development-Projects Public](https://github.com/fabiancrt/CS50-Web-Development-Projects)
-Hello! I'm Fabian C, and I've successfully completed several projects as part of CS50's Web Programming with Python and JavaScript course offered by HarvardX. This course has equipped me with a solid foundation in web development principles and best practices.
-
-**Languages:** ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+**Tech Stack**: ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 
 ---
 
-### 📁 [Medical-Record Public](https://github.com/fabiancrt/Medical-Record)
-The Full-Stack Medical Record Management System is a comprehensive web application designed to digitally scan, organize, and manage medical records efficiently. By converting physical documents into digital formats, it enhances accessibility and security.
+### Ai-Assistant
+**[GitHub Repo](https://github.com/fabiancrt/Ai-Assistant)**
 
-**Languages:** ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+An AI Assistant (codenamed “Jarvis”) developed to deepen understanding of machine learning and natural language processing. Built with PyTorch for intelligent and responsive interactions.
 
----
-
-### 🧩 [My-Coding-Problems Public](https://github.com/fabiancrt/My-Coding-Problems)
-This repository is for educational purposes only. You shall not use these solutions in any way that goes against Harvard's academic honesty policy. It contains problems specific to the CS50 program.
-
-**Languages:** ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+**Tech Stack**: ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 
 ---
 
-### 🌐 [OnlyRecruit Public](https://github.com/fabiancrt/OnlyRecruit)
-ONLYRECRUIT is a cutting-edge, full-stack web application tailored for top recruiters. It empowers users to securely store and professionally showcase their projects, enhancing visibility and simplifying the recruitment process.
+### CS50-Web-Development-Projects
+**[GitHub Repo](https://github.com/fabiancrt/CS50-Web-Development-Projects)**
 
-**Languages:** ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+Projects from the CS50’s Web Programming with Python and JavaScript course by HarvardX. Demonstrates a solid foundation in web development principles and best practices.
+
+**Tech Stack**: ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+
+---
+
+### Medical-Record
+**[GitHub Repo](https://github.com/fabiancrt/Medical-Record)**
+
+A full-stack Medical Record Management System. Converts physical documents to digital formats for improved accessibility, organization, and security.
+
+**Tech Stack**: ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+
+---
+
+### ArduClaw
+**[GitHub Repo](https://github.com/fabiancrt/ArduClaw)**
+
+**Crane Arm with Sensor Integration**
+
+A recently built small-scale crane arm that integrates a **stepper motor**, **servo motor**, and multiple sensors (PIR, Ultrasonic, MPU6050, DHT, Water Detector, IR Receiver) for enhanced safety and functionality. It showcases my growing expertise in **Arduino**, **embedded systems**, and **circuit design**.
+
+- **Precise Arm Control**: Stepper for rotation, servo for the claw.  
+- **Sensor Suite**: Motion detection, obstacle avoidance, tilt/pitch measurements, environment monitoring, and water detection for emergency shutdown.  
+- **Multiple Control Inputs**: Joystick & IR remote for manual and remote operation.  
+- **User Feedback**: LCD display showing real-time system status.  
+
+**Tech Stack**: ![Arduino](https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white), ![C/C++](https://img.shields.io/badge/C%2FC++-00599C?logo=c%2B%2B&logoColor=white)
 
 ---
 
@@ -104,21 +128,29 @@ ONLYRECRUIT is a cutting-edge, full-stack web application tailored for top recru
 
 ## 📅 Recent Activity
 
-- **.NET-Microservice-Project**: 15 commits
-- **Adays**: 22 commits
-- **OnlyRecruit**: 14 commits
-- **Medical-Record**: 9 commits
-- **CS50-Web-Development-Projects**: 8 commits
-- **Ai-Assistant**: 7 commits
+- **.NET-Microservice-Project**: 15 commits  
+- **Adays**: 22 commits  
+- **ArduClaw**: *latest commits here*  
+- **Medical-Record**: 9 commits  
+- **CS50-Web-Development-Projects**: 8 commits  
+- **Ai-Assistant**: 7 commits  
 
 ---
 
 ## 🕸️ Connect with Me
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/cretu-fabian/" target="blank">
-    <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/cretu-fabian/" target="_blank">
+    <img 
+      src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" 
+      alt="LinkedIn" 
+    />
   </a>
 </div>
 
 ---
+
+<p align="center">
+  <strong>Thank you for visiting my GitHub profile!</strong><br />
+  Feel free to explore my projects or connect with me for collaboration.
+</p>
