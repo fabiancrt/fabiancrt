@@ -130,7 +130,7 @@ A recently built small-scale crane arm that integrates a **stepper motor**, **se
 
 - **.NET-Microservice-Project**: 15 commits  
 - **Adays**: 22 commits  
-- **ArduClaw**: *latest commits here*  
+- **ArduClaw**: 1 commit 
 - **Medical-Record**: 9 commits  
 - **CS50-Web-Development-Projects**: 8 commits  
 - **Ai-Assistant**: 7 commits  
