@@ -1,29 +1,23 @@
+<h1 align="center">Fabian</h1>
+
+<p align="center">
+  Computer Science & Engineering Student @ TUIASI
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/C-111111?style=flat-square&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-111111?style=flat-square&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/x86%20Assembly-111111?style=flat-square" />
+  <img src="https://img.shields.io/badge/Python-111111?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-111111?style=flat-square&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/MATLAB-111111?style=flat-square&logo=mathworks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-111111?style=flat-square&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-111111?style=flat-square&logo=git&logoColor=white" />
+</p>
+
+---
+## Statistics
+
 <div align="center">
-  <h1> fabiancrt - Fabian C. </h1>
-  <p><code>printf("Hello world!\n");</code></p>
-  <p>
-    <a href="https://github.com/fabiancrt">
-      <img src="https://img.shields.io/github/followers/fabiancrt?label=Followers&style=social" alt="Followers" />
-    </a>
-    <a href="https://github.com/fabiancrt">
-      <img src="https://img.shields.io/github/following/fabiancrt?label=Following&style=social" alt="Following" />
-    </a>
-  </p>
+  <img src="./github-metrics.svg" width="900" />
 </div>
-
----
-
-
-## 📊 Statistics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fabiancrt&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabiancrt&layout=compact&theme=radical" alt="Top Languages" />
-</div>
-
----
-
-⭐ **Feel free to star, fork, or contact me on GitHub!**
-
----
-
